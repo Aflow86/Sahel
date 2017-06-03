@@ -1,0 +1,2 @@
+# Sahel
+The Sahel Platform
